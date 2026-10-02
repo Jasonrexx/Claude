@@ -18,8 +18,8 @@ Angle: Nuclear was written off for decades. Why is it suddenly everywhere, and w
 - reactor yard: paper cooling towers and server racks at dusk
 - control room: layered paper control panels, orange pellet glowing at center
 
-## Style key prompt
-Cinematic vintage paper diorama style swatch, documentary collage aesthetic: a miniature three dimensional landscape of paper cooling towers and server racks built entirely from aged sepia newspaper sheets and cardboard, torn edges, monochrome archival cutouts of anonymous suited figures with black censor bars over their eyes, one small glowing burnt-orange paper fuel pellet as the single color accent against the sepia world, distressed letterpress texture, warm tungsten documentary lighting with deep shadows, macro tilt-shift lens look, film grain and dust. Handcrafted physical paper materials only, no letters, no words, no numbers, no logos. Non photorealistic, no live-action people. Vertical 9:16 composition.
+## Style key prompt (classic)
+Cinematic vintage paper diorama style swatch, documentary collage aesthetic: a miniature three dimensional landscape built entirely from aged sepia newspaper sheets and cardboard, torn edges, layered paper canyon walls of old newsprint, monochrome archival photo cutouts of anonymous suited figures standing among the paper structures with black censor bars over their eyes, one small glowing burnt-orange paper fuel pellet resting at the center as the single color accent against the sepia world, distressed letterpress print texture, warm tungsten documentary lighting with deep shadows, macro tilt-shift lens look with shallow depth of field, film grain and dust. Handcrafted physical paper materials only, no letters, no words, no numbers, no logos. Non photorealistic scene content, no live-action people, stylized paper craft world. Vertical 9:16 composition.
 
 ## Scene prompts
 
