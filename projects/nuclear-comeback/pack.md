@@ -7,11 +7,11 @@ Angle: Nuclear was written off for decades. Why is it suddenly everywhere, and w
 
 ## Script (approved)
 1. Three Mile Island's working reactor closed in twenty nineteen for losing money. Now Microsoft has agreed to buy its power.
-2. The International Energy Agency projects data centers will use nine hundred forty five terawatt hours by twenty thirty.
+2. The International Energy Agency projects that data centers will use nine hundred forty five terawatt hours of electricity by twenty thirty.
 3. That is roughly what all of Japan uses today, and solar and wind alone cannot promise power every single second.
 4. Tech giants want power that never blinks. Microsoft's twenty year deal is the largest its owner has ever signed.
 5. But restarts are the easy part. Newer reactors promised for data centers are mostly unbuilt, and critics call that hype.
-6. So who is nuclear for? Whoever can promise twenty years of payments. It closed for money. It returns for money.
+6. Who is nuclear for? Whoever promises twenty years of payments. It closed for money. It returns for money.
 
 ## Style key variants
 - classic: sepia newsprint canyon, orange fuel pellet centerpiece
